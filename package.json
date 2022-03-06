@@ -1,0 +1,23 @@
+{
+  "name": "webserieshub",
+  "version": "1.0.0",
+  "description": "this is a web series site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitelover143/webseries-hub.git"
+  },
+  "author": "akash ghule",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitelover143/webseries-hub/issues"
+  },
+  "homepage": "https://github.com/whitelover143/webseries-hub#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
